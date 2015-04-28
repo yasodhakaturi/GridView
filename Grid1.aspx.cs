@@ -17,7 +17,7 @@ namespace GridView
             if (!IsPostBack)
             {
                 //this.BindGrid();
-                //this.usetogo();
+                ////this.usetogo();
                 this.run();
                 this.loadDataTable();
                 this.next();
