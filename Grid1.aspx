@@ -22,7 +22,7 @@
             <AlternatingRowStyle BackColor="#CCCCCC" />
         <Columns>
       
-        <asp:BoundField ItemStyle-Width="150px" DataField ="First_Name"  
+        <asp:BoundField ItemStyle-Width="151px" DataField ="First_Name"  
                 HeaderText = "First_Name" ItemStyle-ForeColor="Black" >
 <ItemStyle ForeColor="Black" Width="150px"></ItemStyle>
             </asp:BoundField>
