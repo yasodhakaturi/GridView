@@ -16,6 +16,7 @@ namespace GridView
         {
             if (!IsPostBack)
             {
+                //bind grid
                 //this.BindGrid();
                 ////this.usetogo();
                 this.run();
