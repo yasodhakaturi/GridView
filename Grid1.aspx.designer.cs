@@ -22,7 +22,7 @@ namespace GridView {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// GridView1 control.
+        //// GridView1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
