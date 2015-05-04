@@ -27,7 +27,7 @@
 <ItemStyle ForeColor="Black" Width="150px"></ItemStyle>
             </asp:BoundField>
         <asp:BoundField ItemStyle-Width="150px" DataField ="Email_ID" 
-                HeaderText ="Email_ID" ItemStyle-ForeColor="Black" >
+                HeaderText ="Email_ID's" ItemStyle-ForeColor="Black" >
 <ItemStyle ForeColor="Black" Width="150px"></ItemStyle>
             </asp:BoundField>
         <asp:BoundField ItemStyle-Width="150px" DataField ="Password" 
